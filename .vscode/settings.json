@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "DVDdatabase",
+            "connectString": "postgres://wnpzrscd:2nOZU5Rzej5X_EWwNun3-0MtHJPiIBGc@jelani.db.elephantsql.com/wnpzrscd"
+        }
+    ]
+}
